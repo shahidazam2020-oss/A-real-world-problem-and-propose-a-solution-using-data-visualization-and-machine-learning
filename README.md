@@ -146,7 +146,7 @@ Heart Attack Risk
 
 # 🔄 Machine Learning Workflow
 
-The project follows a structured machine learning pipeline:
+**The project follows a structured machine learning pipeline:**
 
 ```text
                  ┌──────────────────────┐
