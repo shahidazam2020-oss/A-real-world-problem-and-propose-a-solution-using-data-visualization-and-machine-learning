@@ -25,7 +25,7 @@ Predicting cardiovascular risk using data preprocessing, multiple machine learni
 
 ---
 
-## 📊 Project Dashboard
+# 📊 Project Dashboard
 
 | 🔍 Category                     | 📌 Details                                                                      |
 | ------------------------------- | ------------------------------------------------------------------------------- |
