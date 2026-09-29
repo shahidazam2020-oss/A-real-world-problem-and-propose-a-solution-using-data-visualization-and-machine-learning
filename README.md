@@ -1,4 +1,4 @@
-# 🫀 Heart Attack Risk Prediction Using Machine Learning
+# 📊 Heart Attack Risk Prediction Using Machine Learning
 
 <p align="center">
 
