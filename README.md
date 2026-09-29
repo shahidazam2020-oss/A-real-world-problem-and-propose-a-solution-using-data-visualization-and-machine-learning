@@ -247,7 +247,7 @@ categorical_transformer = Pipeline([
 ])
 ```
 
-This approach allows the preprocessing operations to be integrated directly into the machine learning pipeline.
+**This approach allows the preprocessing operations to be integrated directly into the machine learning pipeline.**
 
 ---
 
