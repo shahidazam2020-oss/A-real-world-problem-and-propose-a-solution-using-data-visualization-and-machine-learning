@@ -78,7 +78,7 @@ The research report identifies factors such as **age, sex, cholesterol, systolic
 
 # 📂 Dataset
 
-The dataset used in this project is the **Heart Attack Risk Prediction Dataset** obtained from Kaggle.
+**The dataset used in this project is the **Heart Attack Risk Prediction Dataset** obtained from Kaggle.**
 
 ### 🔗 Dataset Source
 
