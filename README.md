@@ -61,7 +61,7 @@ The research report identifies factors such as **age, sex, cholesterol, systolic
 
 # 🎯 Objectives
 
-The main objectives of this project are to:
+**The main objectives of this project are to:**
 
 * 🧹 Prepare and preprocess the heart attack risk dataset.
 * 🔎 Identify relevant features for predictive modelling.
