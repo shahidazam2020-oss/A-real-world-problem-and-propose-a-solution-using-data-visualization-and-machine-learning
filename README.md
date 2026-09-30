@@ -235,7 +235,7 @@ numeric_transformer = Pipeline([
 
 ### Categorical Features
 
-Categorical variables are processed using:
+**Categorical variables are processed using:**
 
 * Most-frequent-value imputation
 * One-hot encoding
