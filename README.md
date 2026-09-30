@@ -527,7 +527,7 @@ The notebook generates comparative visualizations for:
 * Confusion Matrices
 * Tuned-model performance
 
-The research report similarly emphasizes that accuracy alone does not provide a complete assessment for healthcare prediction, particularly when identifying positive cases is important.
+**The research report similarly emphasizes that accuracy alone does not provide a complete assessment for healthcare prediction, particularly when identifying positive cases is important.**
 
 ---
 
