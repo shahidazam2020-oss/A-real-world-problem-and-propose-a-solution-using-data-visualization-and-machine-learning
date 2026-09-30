@@ -217,7 +217,7 @@ Heart Attack Risk
 
 # 🧹 Data Preprocessing
 
-The notebook implements preprocessing using a `ColumnTransformer` and separate pipelines for numerical and categorical variables.
+**The notebook implements preprocessing using a `ColumnTransformer` and separate pipelines for numerical and categorical variables.**
 
 ### Numerical Features
 
