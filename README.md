@@ -470,7 +470,7 @@ The corresponding standard deviations are also calculated in the notebook.
 
 # 📏 Evaluation Metrics
 
-The project uses several metrics instead of relying only on accuracy.
+**The project uses several metrics instead of relying only on accuracy.**
 
 | Metric                | Purpose                                                           |
 | --------------------- | ----------------------------------------------------------------- |
