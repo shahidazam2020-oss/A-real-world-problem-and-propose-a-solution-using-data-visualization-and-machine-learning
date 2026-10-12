@@ -448,7 +448,7 @@ StratifiedKFold(
 )
 ```
 
-The cross-validation procedure evaluates:
+**The cross-validation procedure evaluates:**
 
 * Accuracy
 * Precision
