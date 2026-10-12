@@ -661,7 +661,7 @@ MLP                 → ~54%
 
 ### 📌 5. Cross-Validation Indicates Limited Positive-Class Recall
 
-The notebook reports an average cross-validation recall of approximately:
+**The notebook reports an average cross-validation recall of approximately:**
 
 ```text
 12.62%
