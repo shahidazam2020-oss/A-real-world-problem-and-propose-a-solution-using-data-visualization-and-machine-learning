@@ -558,7 +558,7 @@ This corresponds to:
 
 **The relatively high number of false negatives illustrates the importance of evaluating recall in addition to accuracy.**
 
-The report also discusses this behavior and notes that LightGBM identified many non-risk cases while detecting fewer positive risk cases.
+**The report also discusses this behavior and notes that LightGBM identified many non-risk cases while detecting fewer positive risk cases.**
 
 ---
 
