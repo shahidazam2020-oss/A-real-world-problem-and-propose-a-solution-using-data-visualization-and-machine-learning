@@ -464,7 +464,7 @@ The cross-validation procedure evaluates:
 | Recall    | **0.1262** |
 | F1 Score  | **0.1854** |
 
-The corresponding standard deviations are also calculated in the notebook.
+**The corresponding standard deviations are also calculated in the notebook.**
 
 ---
 
