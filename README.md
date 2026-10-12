@@ -667,7 +667,7 @@ MLP                 → ~54%
 12.62%
 ```
 
-This indicates that identifying positive cases remains a major challenge in the current modelling setup.
+**This indicates that identifying positive cases remains a major challenge in the current modelling setup.**
 
 ---
 
