@@ -291,7 +291,7 @@ The problem is treated as a **binary classification task**:
 
 # 🤖 Machine Learning Models
 
-The project compares six major machine learning algorithms.
+**The project compares six major machine learning algorithms.**
 
 ## 1. Logistic Regression
 
