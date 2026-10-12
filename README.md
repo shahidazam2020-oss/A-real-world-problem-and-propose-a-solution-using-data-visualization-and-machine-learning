@@ -425,7 +425,7 @@ After SMOTE
 
 ## 3. Random Undersampling
 
-The project additionally evaluates random undersampling to reduce the number of observations from the majority class.
+**The project additionally evaluates random undersampling to reduce the number of observations from the majority class.**
 
 The resulting training distribution is:
 
