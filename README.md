@@ -295,7 +295,7 @@ The problem is treated as a **binary classification task**:
 
 ## 1. Logistic Regression
 
-A linear classification model used as a baseline for predicting the probability of heart attack risk.
+**A linear classification model used as a baseline for predicting the probability of heart attack risk.**
 
 ```python
 LogisticRegression(max_iter=5000)
