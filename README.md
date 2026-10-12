@@ -488,7 +488,7 @@ The corresponding standard deviations are also calculated in the notebook.
 
 # 📊 Baseline Model Results
 
-The notebook's initial XGBoost implementation produced the following test-set results:
+**The notebook's initial XGBoost implementation produced the following test-set results:**
 
 | Metric                           |      Score |
 | -------------------------------- | ---------: |
