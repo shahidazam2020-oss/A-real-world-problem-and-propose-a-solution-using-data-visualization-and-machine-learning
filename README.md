@@ -259,7 +259,7 @@ The original:
 Blood Pressure
 ```
 
-field is divided into two separate numerical variables:
+**field is divided into two separate numerical variables:**
 
 ```text
 Systolic_BP
