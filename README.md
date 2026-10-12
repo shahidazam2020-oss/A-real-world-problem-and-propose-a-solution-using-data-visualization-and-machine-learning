@@ -383,7 +383,7 @@ with:
 
 # ⚖️ Class Imbalance Handling
 
-The project investigates multiple strategies for handling class imbalance.
+**The project investigates multiple strategies for handling class imbalance.**
 
 ## 1. Class Weighting
 
