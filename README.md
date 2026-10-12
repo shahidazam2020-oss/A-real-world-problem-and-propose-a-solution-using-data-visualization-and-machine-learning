@@ -387,7 +387,7 @@ with:
 
 ## 1. Class Weighting
 
-Models such as Logistic Regression, Decision Tree, and Random Forest are evaluated using balanced class weights.
+**Models such as Logistic Regression, Decision Tree, and Random Forest are evaluated using balanced class weights.**
 
 ```python
 class_weight='balanced'
