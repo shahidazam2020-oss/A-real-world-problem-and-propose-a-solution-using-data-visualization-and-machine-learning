@@ -626,7 +626,7 @@ The notebook's F1-based randomized search identified the **MLP Neural Network** 
 
 **This demonstrates an important trade-off in the project: a model can have lower overall accuracy while detecting a larger proportion of positive cases.**
 
-The research report similarly emphasizes that models with higher sensitivity/recall can be important in healthcare prediction even when their overall accuracy is lower.
+**The research report similarly emphasizes that models with higher sensitivity/recall can be important in healthcare prediction even when their overall accuracy is lower.**
 
 ---
 
