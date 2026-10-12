@@ -315,7 +315,7 @@ DecisionTreeClassifier(random_state=42)
 
 ## 3. Random Forest
 
-An ensemble of decision trees designed to improve predictive stability and reduce overfitting.
+**An ensemble of decision trees designed to improve predictive stability and reduce overfitting.**
 
 ```python
 RandomForestClassifier(random_state=42)
