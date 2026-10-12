@@ -348,7 +348,7 @@ LGBMClassifier(
 
 ## 6. MLP Neural Network
 
-A Multi-Layer Perceptron neural network used to model potentially complex non-linear relationships.
+**A Multi-Layer Perceptron neural network used to model potentially complex non-linear relationships.**
 
 ```python
 MLPClassifier(
