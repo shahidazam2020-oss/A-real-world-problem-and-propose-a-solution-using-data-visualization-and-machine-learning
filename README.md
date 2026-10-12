@@ -615,7 +615,7 @@ The notebook's F1-based randomized search identified the **MLP Neural Network** 
 
 # 🏆 Tuned MLP Evaluation
 
-Using the tuned MLP configuration, the notebook reports:
+**Using the tuned MLP configuration, the notebook reports:**
 
 | Metric    |      Score |
 | --------- | ---------: |
