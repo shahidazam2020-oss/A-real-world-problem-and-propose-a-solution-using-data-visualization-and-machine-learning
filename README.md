@@ -221,7 +221,7 @@ Heart Attack Risk
 
 ### Numerical Features
 
-The numerical preprocessing pipeline includes:
+**The numerical preprocessing pipeline includes:**
 
 * Median imputation
 * Standard scaling
