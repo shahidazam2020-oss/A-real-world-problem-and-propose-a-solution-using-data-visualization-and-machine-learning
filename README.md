@@ -648,7 +648,7 @@ F1-score helps evaluate the balance between precision and recall.
 
 ### 📌 4. Ensemble Models Show Competitive Accuracy
 
-The analysis report reports approximately:
+**The analysis report reports approximately:**
 
 ```text
 Logistic Regression → ~64%
