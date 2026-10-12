@@ -624,7 +624,7 @@ The notebook's F1-based randomized search identified the **MLP Neural Network** 
 | Recall    | **0.3280** |
 | F1 Score  | **0.3288** |
 
-This demonstrates an important trade-off in the project: a model can have lower overall accuracy while detecting a larger proportion of positive cases.
+**This demonstrates an important trade-off in the project: a model can have lower overall accuracy while detecting a larger proportion of positive cases.**
 
 The research report similarly emphasizes that models with higher sensitivity/recall can be important in healthcare prediction even when their overall accuracy is lower.
 
