@@ -438,7 +438,7 @@ The resulting training distribution is:
 
 # 🔄 Cross-Validation
 
-To examine model stability and generalization, the notebook applies:
+**To examine model stability and generalization, the notebook applies:**
 
 ```python
 StratifiedKFold(
