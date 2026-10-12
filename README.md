@@ -393,7 +393,7 @@ Models such as Logistic Regression, Decision Tree, and Random Forest are evaluat
 class_weight='balanced'
 ```
 
-This approach increases the importance of the underrepresented class during model training.
+**This approach increases the importance of the underrepresented class during model training.**
 
 ---
 
