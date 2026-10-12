@@ -96,7 +96,7 @@ The report describes `Heart Attack Risk` as the binary dependent variable, where
 
 # 🧬 Dataset Features
 
-The notebook works with a broad set of demographic, clinical, behavioral, lifestyle, and geographic variables.
+**The notebook works with a broad set of demographic, clinical, behavioral, lifestyle, and geographic variables.**
 
 ### 👤 Demographic Features
 
