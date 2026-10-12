@@ -533,7 +533,7 @@ F1 Score  : 0.23
 
 # 🧪 Confusion Matrix Analysis
 
-Confusion matrices are generated for the evaluated models to examine:
+**Confusion matrices are generated for the evaluated models to examine:**
 
 ```text
 True Negatives
