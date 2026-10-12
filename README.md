@@ -564,7 +564,7 @@ The report also discusses this behavior and notes that LightGBM identified many 
 
 # 🧠 Hyperparameter Tuning Results
 
-The notebook performs model-specific hyperparameter optimization.
+**The notebook performs model-specific hyperparameter optimization.**
 
 ### Decision Tree
 
