@@ -335,7 +335,7 @@ GradientBoostingClassifier(random_state=42)
 
 ## 5. LightGBM
 
-A gradient-boosting framework designed for efficient tree-based learning.
+**A gradient-boosting framework designed for efficient tree-based learning.**
 
 ```python
 LGBMClassifier(
