@@ -517,7 +517,7 @@ The results demonstrate why multiple evaluation metrics are important for this h
 
 # 📈 Model Comparison
 
-The notebook generates comparative visualizations for:
+**The notebook generates comparative visualizations for:**
 
 * Model Accuracy
 * Model F1 Score
