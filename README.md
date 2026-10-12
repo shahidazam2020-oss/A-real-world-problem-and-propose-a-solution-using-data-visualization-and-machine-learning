@@ -632,7 +632,7 @@ The notebook's F1-based randomized search identified the **MLP Neural Network** 
 
 # 🔍 Key Findings
 
-The analysis produces several important observations.
+**The analysis produces several important observations.**
 
 ### 📌 1. Accuracy Alone Is Not Enough
 
