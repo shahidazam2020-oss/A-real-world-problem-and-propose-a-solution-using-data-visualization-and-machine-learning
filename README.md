@@ -266,7 +266,7 @@ Systolic_BP
 Diastolic_BP
 ```
 
-This transformation allows the two blood-pressure measurements to be independently processed by the machine learning models.
+**This transformation allows the two blood-pressure measurements to be independently processed by the machine learning models.**
 
 The original `Patient ID` field is also removed because it does not represent a predictive clinical feature.
 
