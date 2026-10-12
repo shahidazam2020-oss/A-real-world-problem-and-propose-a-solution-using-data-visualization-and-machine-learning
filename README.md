@@ -377,7 +377,7 @@ with:
 * `random_state = 42`
 * Parallel processing using `n_jobs=-1`
 
-The use of F1-score for tuning is particularly relevant because the project evaluates the ability of models to identify positive heart-attack-risk cases rather than relying only on overall accuracy.
+**The use of F1-score for tuning is particularly relevant because the project evaluates the ability of models to identify positive heart-attack-risk cases rather than relying only on overall accuracy.**
 
 ---
 
