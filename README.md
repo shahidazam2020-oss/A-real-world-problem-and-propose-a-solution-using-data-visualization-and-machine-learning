@@ -503,7 +503,7 @@ StratifiedKFold(
 
 ### Classification Performance
 
-For the positive class (`Heart Attack Risk = 1`), the baseline model achieved:
+**For the positive class (`Heart Attack Risk = 1`), the baseline model achieved:**
 
 ```text
 Precision : 0.43
