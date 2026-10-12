@@ -325,7 +325,7 @@ RandomForestClassifier(random_state=42)
 
 ## 4. Gradient Boosting
 
-A sequential ensemble-learning technique that builds multiple weak learners to improve predictive performance.
+**A sequential ensemble-learning technique that builds multiple weak learners to improve predictive performance.**
 
 ```python
 GradientBoostingClassifier(random_state=42)
