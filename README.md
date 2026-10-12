@@ -673,7 +673,7 @@ MLP                 → ~54%
 
 # 📊 Research Findings
 
-The accompanying analysis report found that individuals with heart attack presence had higher mean values for:
+**The accompanying analysis report found that individuals with heart attack presence had higher mean values for:**
 
 * Total Cholesterol
 * Systolic Blood Pressure
