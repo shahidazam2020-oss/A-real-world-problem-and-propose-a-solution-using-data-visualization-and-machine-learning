@@ -90,7 +90,7 @@ The report describes `Heart Attack Risk` as the binary dependent variable, where
 * `0` = Absence of heart attack risk
 * `1` = Presence of heart attack risk
 
-The report also identifies demographic and clinical variables including age, sex, cholesterol, systolic blood pressure, diastolic blood pressure, smoking, and diabetes.
+**The report also identifies demographic and clinical variables including age, sex, cholesterol, systolic blood pressure, diastolic blood pressure, smoking, and diabetes.**
 
 ---
 
