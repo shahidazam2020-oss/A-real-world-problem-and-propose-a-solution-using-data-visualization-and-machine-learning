@@ -542,7 +542,7 @@ False Negatives
 True Positives
 ```
 
-For example, the notebook reports the following LightGBM confusion matrix:
+**For example, the notebook reports the following LightGBM confusion matrix:**
 
 ```text
 [[1049   76]
