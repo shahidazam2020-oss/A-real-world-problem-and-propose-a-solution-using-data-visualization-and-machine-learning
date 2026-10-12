@@ -511,7 +511,7 @@ Recall    : 0.16
 F1 Score  : 0.23
 ```
 
-The results demonstrate why multiple evaluation metrics are important for this healthcare classification problem.
+**The results demonstrate why multiple evaluation metrics are important for this healthcare classification problem.**
 
 ---
 
