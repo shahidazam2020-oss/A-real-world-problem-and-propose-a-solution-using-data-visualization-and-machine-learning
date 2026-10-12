@@ -556,7 +556,7 @@ This corresponds to:
 | **Actual No Risk** |              1049 |             76 |
 | **Actual Risk**    |               581 |             47 |
 
-The relatively high number of false negatives illustrates the importance of evaluating recall in addition to accuracy.
+**The relatively high number of false negatives illustrates the importance of evaluating recall in addition to accuracy.**
 
 The report also discusses this behavior and notes that LightGBM identified many non-risk cases while detecting fewer positive risk cases.
 
