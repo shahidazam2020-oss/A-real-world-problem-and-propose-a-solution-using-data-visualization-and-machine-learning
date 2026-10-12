@@ -305,7 +305,7 @@ LogisticRegression(max_iter=5000)
 
 ## 2. Decision Tree
 
-A tree-based model capable of learning non-linear relationships and decision rules.
+**A tree-based model capable of learning non-linear relationships and decision rules.**
 
 ```python
 DecisionTreeClassifier(random_state=42)
