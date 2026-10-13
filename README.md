@@ -964,7 +964,7 @@ The models are developed for research and educational machine-learning analysis 
 
 # 📚 Research Report
 
-The repository also contains the detailed analysis report describing:
+**The repository also contains the detailed analysis report describing:**
 
 * Problem Statement
 * Dataset Collection
