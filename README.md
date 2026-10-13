@@ -695,7 +695,7 @@ These descriptive findings provide additional context for the machine learning a
 
 *The analysis report indicates that the evaluated models produced ROC-AUC values close to **0.50**, suggesting limited discriminatory capability in the current modelling setup.*
 
-Reported approximate values include:
+**Reported approximate values include:**
 
 | Model               | ROC-AUC |
 | ------------------- | ------: |
