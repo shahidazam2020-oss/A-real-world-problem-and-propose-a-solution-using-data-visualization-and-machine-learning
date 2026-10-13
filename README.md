@@ -915,7 +915,7 @@ Comparative Analysis
 
 ### Dataset Representation
 
-The dataset may not fully represent the diversity of heart attack patients across different healthcare environments.
+**The dataset may not fully represent the diversity of heart attack patients across different healthcare environments.**
 
 ### Positive-Class Detection
 
