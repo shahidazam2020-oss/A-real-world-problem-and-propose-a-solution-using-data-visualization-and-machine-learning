@@ -838,7 +838,7 @@ Run the cells sequentially to reproduce:
 
 # 📊 Generated Visualizations
 
-The notebook generates several visual analyses, including:
+**The notebook generates several visual analyses, including:**
 
 ### 📌 Cross-Validation Metrics
 
