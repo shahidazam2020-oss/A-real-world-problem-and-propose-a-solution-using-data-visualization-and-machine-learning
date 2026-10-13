@@ -905,7 +905,7 @@ Performance Evaluation
 Comparative Analysis
 ```
 
-The research report describes the framework as incorporating preprocessing, feature selection, class-imbalance handling, model optimization, and cross-validation.
+**The research report describes the framework as incorporating preprocessing, feature selection, class-imbalance handling, model optimization, and cross-validation.**
 
 ---
 
