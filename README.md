@@ -911,7 +911,7 @@ Comparative Analysis
 
 # ⚠️ Limitations
 
-The current analysis has several limitations.
+**The current analysis has several limitations.**
 
 ### Dataset Representation
 
