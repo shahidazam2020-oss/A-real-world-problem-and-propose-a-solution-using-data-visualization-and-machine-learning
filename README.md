@@ -958,7 +958,7 @@ The models are developed for research and educational machine-learning analysis 
 * 🔍 Feature importance analysis
 * 🏥 External clinical validation
 
-The research report specifically recommends improving the diversity of variables and addressing the continuing difficulty of accurately predicting the minority/positive class.
+**The research report specifically recommends improving the diversity of variables and addressing the continuing difficulty of accurately predicting the minority/positive class.**
 
 ---
 
