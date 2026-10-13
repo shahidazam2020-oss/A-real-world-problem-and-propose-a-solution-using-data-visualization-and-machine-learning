@@ -933,7 +933,7 @@ Comparative Analysis
 * Genetic information
 * Psychological stress
 
-could provide additional information for future modelling.
+**could provide additional information for future modelling.**
 
 ### Clinical Application
 
