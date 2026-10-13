@@ -710,7 +710,7 @@ These descriptive findings provide additional context for the machine learning a
 
 # 🛠️ Technologies & Libraries
 
-The project uses the following Python ecosystem:
+**The project uses the following Python ecosystem:**
 
 ### Programming
 
