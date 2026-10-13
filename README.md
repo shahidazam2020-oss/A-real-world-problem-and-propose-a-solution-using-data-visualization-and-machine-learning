@@ -943,7 +943,7 @@ The models are developed for research and educational machine-learning analysis 
 
 # 🚀 Future Improvements
 
-Future versions of this project could investigate:
+**Future versions of this project could investigate:**
 
 * 🔬 External validation using independent datasets
 * 🧠 Explainable AI techniques such as SHAP
