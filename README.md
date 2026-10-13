@@ -923,7 +923,7 @@ Comparative Analysis
 
 ### Predictive Discrimination
 
-ROC-AUC values close to 0.50 indicate limited discrimination in the current modelling configuration.
+**ROC-AUC values close to 0.50 indicate limited discrimination in the current modelling configuration.**
 
 ### Missing Variables
 
