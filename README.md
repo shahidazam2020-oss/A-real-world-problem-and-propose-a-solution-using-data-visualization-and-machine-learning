@@ -927,7 +927,7 @@ Comparative Analysis
 
 ### Missing Variables
 
-The research report notes that additional factors such as:
+**The research report notes that additional factors such as:**
 
 * Physical activity
 * Genetic information
