@@ -919,7 +919,7 @@ Comparative Analysis
 
 ### Positive-Class Detection
 
-The models demonstrate relatively limited recall for positive heart-attack-risk cases.
+**The models demonstrate relatively limited recall for positive heart-attack-risk cases.**
 
 ### Predictive Discrimination
 
