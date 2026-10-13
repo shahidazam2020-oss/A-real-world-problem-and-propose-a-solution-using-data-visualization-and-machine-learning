@@ -875,7 +875,7 @@ Visualization of class distribution before and after balancing techniques.
 
 # 🔬 Research Methodology
 
-The overall methodology can be summarized as:
+**The overall methodology can be summarized as:**
 
 ```text
 Data Collection
