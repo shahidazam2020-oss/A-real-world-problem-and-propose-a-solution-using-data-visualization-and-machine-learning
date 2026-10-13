@@ -817,7 +817,7 @@ Make sure:
 heart_attack_prediction_dataset.csv
 ```
 
-is located in the same directory as the notebook unless the dataset path is changed in the notebook.
+**is located in the same directory as the notebook unless the dataset path is changed in the notebook.**
 
 ## 6. Run the Notebook
 
