@@ -997,7 +997,7 @@ Balanced Accuracy
 Confusion Matrix
 ```
 
-The report similarly concludes that multiple performance measures provide a more meaningful assessment of healthcare machine-learning models than accuracy alone.
+**The report similarly concludes that multiple performance measures provide a more meaningful assessment of healthcare machine-learning models than accuracy alone.**
 
 ---
 
