@@ -1001,7 +1001,7 @@ Confusion Matrix
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 About The Developer
 
 **Shahid Azam**
 
