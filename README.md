@@ -1014,6 +1014,8 @@ My research interests include Artificial Intelligence,
 Machine Learning, Natural Language Processing, Large Language
 Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
+I welcome opportunities for academic collaboration,
+
 🎓 Computer Science / Machine Learning Researcher
 🔬 Research Interests: Machine Learning, Artificial Intelligence, Healthcare Analytics, Data Science
 
