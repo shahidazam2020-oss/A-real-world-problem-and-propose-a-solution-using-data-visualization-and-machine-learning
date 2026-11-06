@@ -1015,6 +1015,7 @@ Machine Learning, Natural Language Processing, Large Language
 Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
 I welcome opportunities for academic collaboration,
+research discussions, knowledge sharing, and professional networking.
 
 🎓 Computer Science / Machine Learning Researcher
 🔬 Research Interests: Machine Learning, Artificial Intelligence, Healthcare Analytics, Data Science
