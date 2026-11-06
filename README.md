@@ -1012,6 +1012,7 @@ academic specialization in Artificial Intelligence.
 
 My research interests include Artificial Intelligence,
 Machine Learning, Natural Language Processing, Large Language
+Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
 🎓 Computer Science / Machine Learning Researcher
 🔬 Research Interests: Machine Learning, Artificial Intelligence, Healthcare Analytics, Data Science
