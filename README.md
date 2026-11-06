@@ -1008,6 +1008,7 @@ Confusion Matrix
 Thank you for visiting my research repository!
 
 I am Shahid Azam, a Computer Science researcher with an
+academic specialization in Artificial Intelligence.
 
 🎓 Computer Science / Machine Learning Researcher
 🔬 Research Interests: Machine Learning, Artificial Intelligence, Healthcare Analytics, Data Science
