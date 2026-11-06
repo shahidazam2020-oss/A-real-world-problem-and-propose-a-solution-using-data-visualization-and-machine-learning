@@ -1020,7 +1020,8 @@ research discussions, knowledge sharing, and professional networking.
 🎓 Computer Science / Machine Learning Researcher
 🔬 Research Interests: Machine Learning, Artificial Intelligence, Healthcare Analytics, Data Science
 
-### 🔗 Connect
+# 🔗 Connect
+### 🌐 Professional & Academic Profiles
 
 <p align="center">
 
