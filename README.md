@@ -1011,6 +1011,7 @@ I am Shahid Azam, a Computer Science researcher with an
 academic specialization in Artificial Intelligence.
 
 My research interests include Artificial Intelligence,
+Machine Learning, Natural Language Processing, Large Language
 
 🎓 Computer Science / Machine Learning Researcher
 🔬 Research Interests: Machine Learning, Artificial Intelligence, Healthcare Analytics, Data Science
