@@ -6,6 +6,9 @@
    <a href="https://github.com/shahidazam2020-oss/A-real-world-problem-and-propose-a-solution-using-data-visualization-and-machine-learning/forks">
     <img src="https://img.shields.io/github/forks/shahidazam2020-oss/A-real-world-problem-and-propose-a-solution-using-data-visualization-and-machine-learning?style=social&cacheSeconds=60" alt="GitHub Forks">
   </a>
+  <a href="https://github.com/shahidazam2020-oss/A-real-world-problem-and-propose-a-solution-using-data-visualization-and-machine-learning/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/A-real-world-problem-and-propose-a-solution-using-data-visualization-and-machine-learning?display_timestamp=committer&style=flat-square" alt="Last Commit">
+  </a>
 # 📊 Heart Attack Risk Prediction Using Machine Learning
 
 <p align="center">
