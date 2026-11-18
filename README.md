@@ -1,4 +1,4 @@
-
+<p align="center">
 <a href="https://github.com/shahidazam2020-oss/A-real-world-problem-and-propose-a-solution-using-data-visualization-and-machine-learning/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/A-real-world-problem-and-propose-a-solution-using-data-visualization-and-machine-learning?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
@@ -9,9 +9,12 @@
   <a href="https://github.com/shahidazam2020-oss/A-real-world-problem-and-propose-a-solution-using-data-visualization-and-machine-learning/commits">
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/A-real-world-problem-and-propose-a-solution-using-data-visualization-and-machine-learning?display_timestamp=committer&style=flat-square" alt="Last Commit">
   </a>
+  </p>
+
+  ---
 # 📊 Heart Attack Risk Prediction Using Machine Learning
 
-<p align="center">
+
 
 **A Comparative Machine Learning Framework for Heart Attack Risk Prediction**
 
